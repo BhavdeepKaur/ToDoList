@@ -36,8 +36,9 @@ export default class ToDoTableRow extends Component {
                 </td>
             </tr>
         );
-        {/*}}
-        else{return(<tr></tr>);}*/}
-   }
+    }
+    /*else
+        {return(<tr></tr>);}
+   }*/
 
 }
